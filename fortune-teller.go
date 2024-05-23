@@ -7,7 +7,7 @@ import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
-const TOKEN = "7081723927:AAGLnRbovX3DeJ5fXEx3WY4LPKtZbTy4SkA"
+const TOKEN = ""
 
 var bot *tgbotapi.BotAPI
 var fortuneTellerNames = [2]string{"лев", "лев толстой"}
